@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">LoginSignupDesigni</string>
+    <!-- TODO: Remove or change this placeholder text -->
+        <string name="hello_blank_fragment">Hello blank fragment</string>
+        <string name="login">LOGIN</string>
+        <string name="email">Email</string>
+        <string name="password">Password</string>
+        <string name="or_login_with">--------or Login with--------</string>
+        <string name="or_signup_with">--------or Sign Up with--------</string>
+        <string name="dont_have_account_signup">Dont have Account? SignUp</string>
+        <string name="forgotPassword">Forgot Password?</string>
+        <string name="signup">SIGN UP</string>
+        <string name="name">Name</string>
+        <string name="confirm_password">Confirm Password</string>
+        <string name="next">NEXT</string>
+        <string name="sign_in_to_discover_amazing_things_naround_you">Sign In to discover amazing things \naround you</string>
+        <string name="by_signing_up_you_accept_our_">By Signing Up you accept our <b>Terms of Service</b> and \n <b>Privacy Policy</b> </string>
+        <string name="enter_the_otp_n_we_sent_you_on_the_following_email">Enter the OTP \n we sent you on the following email :</string>
+        <string name="verify">Verify</string>
+        <string name="didint_t_receive_the_otp_resend_otp">Didint\'t receive the OTP? Resend OTP</string>
+        <string name="clothes">Clothes</string>
+        <string name="sports">Sports</string>
+        <string name="electronics">Electronics</string>
+        <string name="furniture">Furniture</string>
+        <string name="accessories">Accessories</string>
+        <string name="watches">Watches</string>
+        <string name="search">   Search</string>
+        <string name="home">Home</string>
+        <string name="orders">Orders</string>
+        <string name="notification">Notifications</string>
+        <string name="profile">Profile</string>
+        <string name="wishlist">Wishlist</string>
+        <string name="cart">Cart</string>
+        <string name="conditioner">Conditioner</string>
+        <string name="rupess_200">Rs.200</string>
+        <string name="shampoo">Shampoo</string>
+        <string name="rupess_150">Rs.150</string>
+        <string name="iphone">Iphone 11</string>
+        <string name="rupess_51000">Rs. 51000</string>
+        <string name="color_colon">Color : </string>
+
+    </resources>
